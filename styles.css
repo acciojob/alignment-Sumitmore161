@@ -7,16 +7,25 @@
   border-spacing: 1px;
 	border-collapse: separate;
 }
-table td {
+/* table td {
   border: 1px solid black;
+} */
+#table-1 tr td {
+	border: 1px solid black;
   padding: 1px;
+	
 }
-
 #table-2  tr td {
+	border: 1px solid black;
   height: 1.2rem;
+  padding: 1px;
+	
 }
  #table-3 tr td {
+	 border: 1px solid black;
   height: 1.2rem;
+  padding: 1px;
+	 
 }
 .right {
   text-align: right;
